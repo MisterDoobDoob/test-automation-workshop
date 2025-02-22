@@ -1,3 +1,6 @@
+## Github Actions test
+[![Playwright Tests](https://github.com/MisterDoobDoob/test-automation-workshop/actions/workflows/playwright.yml/badge.svg)](https://github.com/MisterDoobDoob/test-automation-workshop/actions/workflows/playwright.yml)
+
 # Test Automation Workshop
 
 ## Background
